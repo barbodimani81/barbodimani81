@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Barbod</h1>
-<h3 align="center">A passionate Django backend developer</h3>
+<h1 align="center">Hi, I'm Barbod</h1>
+<h2 align="center">Go and Python developer</h2>
 
+*23-year-old* backend developer with **2 years** of experience building scalable web architectures. Skilled in **system
+design**, database management, and end-to-end deployment. Focused on clean architecture, performance, and
+code quality, delivering scalable backend systems.
+
+---
 - 🔭 I’m currently working on **start ups who need a website**
 
-- 🌱 I’m currently learning **professional Django and also data science**
+- 🌱 I’m currently learning **Go backend developement**
 
-- 👯 I’m looking to collaborate on **backend and frontend projects**
+- 👯 I’m looking to collaborate on **Web developement projects**
 
 - 🤝 I’m looking for help with **website developement**
 
-- 💬 Ask me about **Django**
-
 - 📫 How to reach me **barbodimani8181@gmail.com**
 - https://github.com/barbodimani81/sample-git/blob/main/docker-hub.jpeg
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
